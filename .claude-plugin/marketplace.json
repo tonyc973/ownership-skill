@@ -1,0 +1,23 @@
+{
+  "name": "ownership-skill",
+  "owner": {
+    "name": "tonyc973"
+  },
+  "metadata": {
+    "description": "Make Claude explain its code so you own it",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ownership",
+      "source": "./",
+      "description": "Always-on mode that makes Claude explain its code and decisions so you fully own them",
+      "version": "1.0.0",
+      "author": {
+        "name": "tonyc973"
+      },
+      "keywords": ["explanation", "learning", "ownership", "coding"],
+      "category": "workflow"
+    }
+  ]
+}

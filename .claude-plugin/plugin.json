@@ -1,0 +1,11 @@
+{
+  "name": "ownership",
+  "description": "Always-on mode that makes Claude explain its code and decisions so you fully own them: plain words, file:line walkthroughs, rejected alternatives, real references, ways to verify it yourself",
+  "version": "1.0.0",
+  "author": {
+    "name": "tonyc973"
+  },
+  "license": "MIT",
+  "keywords": ["explanation", "learning", "ownership", "coding"],
+  "skills": ["./skills/ownership"]
+}
